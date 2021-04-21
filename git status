@@ -1,0 +1,47 @@
+[33mcommit 7b008ed5f2d074dbd6b634430d98a3696d59d2b7[m[33m ([m[1;36mHEAD -> [m[1;32mparte-6[m[33m, [m[1;31morigin/parte-5[m[33m, [m[1;32mparte-5[m[33m)[m
+Author: Renan Arimatea <renanmoraiz@gmail.com>
+Date:   Wed Apr 7 07:00:08 2021 -0300
+
+    feat(main): implemented modifications in style.css and index.html for better design structure
+
+[33mcommit 399d1e0226f37a4859d98670155b12a5cdc981c9[m
+Author: Renan Arimatea <renanmoraiz@gmail.com>
+Date:   Mon Apr 5 06:44:12 2021 -0300
+
+     feat(main): implemented main style
+
+[33mcommit 36f20cb4cdeb91d1080f10ea697d51cd4b5d8940[m[33m ([m[1;31morigin/parte-4[m[33m, [m[1;32mparte-4[m[33m)[m
+Author: Renan Arimatea <renanmoraiz@gmail.com>
+Date:   Tue Mar 23 21:41:50 2021 -0300
+
+    feat(header): implemented header styles
+
+[33mcommit d70e49fa25e67604f133fec1fc0533e0460814a2[m[33m ([m[1;31morigin/parte-3[m[33m, [m[1;32mparte-3[m[33m)[m
+Author: Renan Arimatea <renanmoraiz@gmail.com>
+Date:   Mon Mar 22 21:22:03 2021 -0300
+
+    feat(style.css): created the style.css and applied navigation menu style
+
+[33mcommit 6c0ea55fd6456f58c4bcde2653e8a41c18312497[m[33m ([m[1;31morigin/parte-2[m[33m, [m[1;32mparte-2[m[33m)[m
+Author: Renan Arimatea <renanmoraiz@gmail.com>
+Date:   Mon Mar 22 07:46:59 2021 -0300
+
+    feat(html): constructed html structure for the main page
+
+[33mcommit a8713432fcec2b7fb81c1146689997de078ec2fa[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Renan Arimatea <renanmoraiz@gmail.com>
+Date:   Sat Mar 20 21:50:28 2021 -0300
+
+    feat(index): created the index.html boilerplate
+
+[33mcommit 25b92a61982011956506ab0b2bca8820ae41340d[m
+Author: Renan Arimatea <renanmoraiz@gmail.com>
+Date:   Sat Mar 20 21:17:14 2021 -0300
+
+    feat(npm): created package json, gitignore files
+
+[33mcommit c520fccb389b27781f4afb9751183e6b8aa2a9dd[m
+Author: Renan Arimatea <renanmoraiz@gmail.com>
+Date:   Sat Mar 20 20:02:06 2021 -0300
+
+    Initial Commit
